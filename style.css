@@ -1,0 +1,19 @@
+h1 {
+	color: white;
+	font-size: 40px;
+}
+
+.body_backgorund {
+	background-image: url("https://st2.depositphotos.com/1025323/6556/i/600/depositphotos_65563221-stock-photo-realms-of-inner-paint.jpg");
+	background-position: center;
+	background-size: cover;
+
+}
+
+#myCanvas {
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+
+
+}
